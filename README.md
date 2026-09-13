@@ -1,2 +1,2 @@
-# P4_Least_Common_Multiple
+# P4 找最小公倍數
 找最小公倍數
